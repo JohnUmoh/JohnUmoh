@@ -67,7 +67,7 @@ We'll soon publish setup steps for:
 
 - **UI Demo (Figma)**: [Figma Link Here](https://www.figma.com/)
 - **Presentation (Canva)**: [Canva Slide Deck](https://www.canva.com/)
-- **Pitch Video (Coming Soon)**: [YouTube Placeholder](https://www.youtube.com/)
+- **Pitch Video https://youtube.com/shorts/A0uyf3RL3go?si=m0r8hJc6YoNLNnb9
 - **Blog / Documentation**: *(To be added)*
 
 ---
